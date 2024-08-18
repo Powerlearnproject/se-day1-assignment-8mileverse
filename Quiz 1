@@ -22,7 +22,8 @@ Software engineering is a systematic approach to the design, development, mainte
 - Waterfall: A linear and sequential approach where each phase must be completed before the next begins. Suitable for projects with clear, unchanging requirements (e.g., construction software).
 - Agile: An iterative and flexible approach that allows for changes and improvements at every stage. Ideal for projects with evolving requirements (e.g., web applications).
 
- Roles and Responsibilities in a Software Engineering Team    
+ Roles and Responsibilities in a Software Engineering Team
+
 - Software Developer: Writes code, implements features, and fixes bugs.
 - Quality Assurance (QA) Engineer: Tests software to ensure it meets quality standards and is free of defects.
 - Project Manager: Oversees the project, coordinates team efforts, manages timelines, and ensures that project goals are met.
